@@ -1,0 +1,107 @@
+name: ExperienceKits
+version: 1.0
+main: com.experiencepvp.kits.Main
+depend: [WorldGuard]
+commands:
+  pvp:
+  archer:
+  gambler:
+  grappler:
+  stomper:
+  kangaroo:
+  gladiator:
+  hulk:
+  fisherman:
+  jellyfish:
+  thor:
+  viper:
+  phantom:
+  snail:
+  ninja:
+  reaper:
+  enderman:
+  turtle:
+  spiderman:
+  switcher:
+  pyro:
+  samurai:
+  specialist:
+  grandpa:
+  poseidon:
+  anchor:
+  rogue:
+  sonic:
+  flash:
+  feather:
+  ban:
+  tempban:
+  akit:
+  tank:
+  settings:
+  clan:
+  stats:
+  spawn:
+  setspawn:
+  experiencepvp:
+  join:
+  tourney:
+  apply:
+  1v1:
+  ckit:
+  skit:
+  antistomper:
+  admin:
+  coins:
+  akit:
+  event:
+  bal:
+  balance:
+  coins:
+  lava:
+  combo:
+  getlevel:
+  setlevel:
+  scheduledtest:
+  fixcoins:
+  listlevel:
+  listcorrupt:
+  checkff:
+  votespawn:
+  seespawn:
+  listspawn:
+  vote:
+  oitc:
+permissions:
+  experiencepvp.kits.*:
+    description: All Kits
+    children:
+      experiencepvp.kit.pvp: true
+      experiencepvp.kit.feather: true
+      experiencepvp.kit.gambler: true
+      experiencepvp.kit.fisherman: true
+      experiencepvp.kit.grandpa: true
+      experiencepvp.kit.archer: true
+      experiencepvp.kit.enderman: true
+      experiencepvp.kit.switcher: true
+      experiencepvp.kit.kangaroo: true
+      experiencepvp.kit.thor: true
+      experiencepvp.kit.viper: true
+      experiencepvp.kit.phantom: true
+      experiencepvp.kit.snail: true
+      experiencepvp.kit.ninja: true
+      experiencepvp.kit.reaper: true
+      experiencepvp.kit.hulk: true
+      experiencepvp.kit.turtle: true
+      experiencepvp.kit.gladiator: true
+      experiencepvp.kit.stomper: true
+      experiencepvp.kit.samurai: true
+      experiencepvp.kit.grappler: true
+      experiencepvp.kit.jellyfish: true
+      experiencepvp.kit.specialist: true
+      experiencepvp.kit.poseidon: true
+      experiencepvp.kit.anchor: true
+      experiencepvp.kit.rogue: true
+      experiencepvp.kit.sonic: true
+      experiencepvp.kit.flash: true
+      experiencepvp.kit.tank: true
+      experiencepvp.kit.antistomper: true
